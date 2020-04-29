@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/dropdown-overlap/static/css/main.0fba67c8.chunk.css",
+    "main.js": "/dropdown-overlap/static/js/main.7f615eb5.chunk.js",
+    "main.js.map": "/dropdown-overlap/static/js/main.7f615eb5.chunk.js.map",
+    "runtime-main.js": "/dropdown-overlap/static/js/runtime-main.6cc7674a.js",
+    "runtime-main.js.map": "/dropdown-overlap/static/js/runtime-main.6cc7674a.js.map",
+    "static/css/2.de424728.chunk.css": "/dropdown-overlap/static/css/2.de424728.chunk.css",
+    "static/js/2.66777999.chunk.js": "/dropdown-overlap/static/js/2.66777999.chunk.js",
+    "static/js/2.66777999.chunk.js.map": "/dropdown-overlap/static/js/2.66777999.chunk.js.map",
+    "index.html": "/dropdown-overlap/index.html",
+    "precache-manifest.aa3701b5669700fd4dbea54edc11ce0d.js": "/dropdown-overlap/precache-manifest.aa3701b5669700fd4dbea54edc11ce0d.js",
+    "service-worker.js": "/dropdown-overlap/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/dropdown-overlap/static/css/2.de424728.chunk.css.map",
+    "static/css/main.0fba67c8.chunk.css.map": "/dropdown-overlap/static/css/main.0fba67c8.chunk.css.map",
+    "static/js/2.66777999.chunk.js.LICENSE.txt": "/dropdown-overlap/static/js/2.66777999.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/dropdown-overlap/static/media/site-bg.9d7a25eb.jpg",
+    "static/media/slide_1.jpg": "/dropdown-overlap/static/media/slide_1.9c8e1ab8.jpg",
+    "static/media/slide_2.jpg": "/dropdown-overlap/static/media/slide_2.8c3cd0ab.jpg",
+    "static/media/slide_3.jpg": "/dropdown-overlap/static/media/slide_3.30b77f1c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cc7674a.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.66777999.chunk.js",
+    "static/css/main.0fba67c8.chunk.css",
+    "static/js/main.7f615eb5.chunk.js"
+  ]
+}
