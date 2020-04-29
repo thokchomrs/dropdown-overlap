@@ -1,0 +1,183 @@
+
+.tata {
+  overflow: hidden;
+
+  position: sticky;
+  top: 0;
+  font-family:Helvetica, Arial, sans-serif, Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14;
+  z-index: 50;
+  background-color: skyblue;
+
+}
+
+.abc{
+
+  position: fixed !important;
+}
+
+.slider-main {
+  z-index: 1001;
+}
+
+
+.drop-top {
+  z-index: 1000;
+  display: block;
+  position: static;
+  width: 100%;
+  color: #61dafb;
+  position: sticky;
+  top: 0;
+  }
+  .mycontainer{
+    z-index: 101;
+      margin-right: auto;
+      margin-left: auto;
+      display: block;
+  }
+  .tata {
+    overflow: hidden;
+    background-color: #ffffff;
+    position: sticky;
+    top: 0;
+    font-family:Helvetica, Arial, sans-serif, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14;
+  
+  }
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.full-center {
+  align-self: 'center' ;
+  border: 1;
+  border-color: red;
+}
+
+.site-bg {
+  background-image: url("./images/site-bg.jpg");
+  background-repeat: no-repeat;
+
+}
+.ser-com-icon-1 {
+  background-image: url("./images/site-bg.jpg");
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.ser-com-border {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  
+}
+.ser-com-head-bg {
+  background-color: #e0741b;
+  height: 100;
+}
+.ser-com-width {
+  width: 216;
+}
+.ser-com-content-bg {
+  background-color: #fff567;
+
+}
+
+.hero-text {
+  text-align: center;
+  flex: 1;
+  flex-direction: column-reverse;
+
+
+
+
+}
+
+.hero-text button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 10px 25px;
+  color: black;
+  background-color: #ddd;
+  text-align: center;
+  cursor: pointer;
+}
+
+.hero-text button:hover {
+  background-color: #555;
+  color: white;
+}
+
+.column {
+  float: left;
+  width: 216;
+  background-color:#aaa;
+
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+  ;
+}
+.test {
+  border-color: red;
+  border-style: solid;
+  border-width: 1px;
+}
+.mycontainer{
+
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.testpading {
+  padding-bottom: 50;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+
+  
+
+
+
+  
+}
